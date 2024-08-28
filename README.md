@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CogVideoX-5B-jupyter/blob/main/CogVideoX_5B_jupyter.ipynb) | CogVideoX_5B_jupyter (Pro Colab 😭 ~17.7GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CogVideoX-5B-jupyter/blob/main/CogVideoX_5B_jupyter.ipynb) | CogVideoX_5B_jupyter
 
 ### 🧬 Code
 https://github.com/THUDM/CogVideo
